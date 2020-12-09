@@ -6,4 +6,8 @@ It is stimulation which implements the apllication of the shortest path algorith
 As following the algorithm, the tank tries to reach its final place by acquiring the minimum cost possible and the shortest distancepossible.
 
 To run this stimulation : 
-1. 
+
+1. Download the zip folder
+2. Extract all the files inside it.
+3. Run theshortest path tank stimulation.exe
+4. Enjoy the stimulation.
